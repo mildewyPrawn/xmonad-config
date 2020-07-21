@@ -44,7 +44,7 @@ Config { font = "xft:Ubuntu Mono:pixelsize=14:antialias=true:highting=true"
                     ]
        , sepChar = "%"
        , alignSep = "}{"
-       , template = " <icon=haskell_20.xpm/> |  %cpu% | %memory% * %swap% 
+       , template = " <icon=haskell_20.xpm/><icon=rainbow.xpm/><icon=nyan.xpm/> |  %cpu% | %memory% * %swap% 
                       <fc=#ee9a00>%date%</fc> }\
                       \{ %battery% | %uname%"
        }
